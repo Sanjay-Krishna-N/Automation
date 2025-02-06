@@ -1,0 +1,6 @@
+http://localhost:8095/api/employee/save|{"id":2,"name":"Sanjay","location":"Bangalore","email":"krisanjay@gmail.com"}
+http://localhost:8095/api/employee/save|{"id":3,"name":"Sanjay","location":"Bangalore","email":"krisanjay@gmail.com"}
+http://localhost:8095/api/employee/save|{"id":4,,"email":"krisanjay@gmail.com"}
+http://localhost:8095/api/employee/save|{"id":4,"location":"Bangalore"}
+http://localhost:8095/api/employee/save|{}
+http://localhost:8095/api/employee/save|
